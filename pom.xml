@@ -14,8 +14,10 @@
     </modules>
 
     <properties>
+        <java.version>1.8</java.version>
         <junit.version>5.8.1</junit.version>
     </properties>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
